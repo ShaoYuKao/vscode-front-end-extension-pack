@@ -1,0 +1,35 @@
+{
+  "name": "vscode-front-end-extension-pack",
+  "displayName": "Front End Extension Pack",
+  "description": "Popular Visual Studio Code extensions for Front End authoring",
+  "version": "0.1.1",
+  "publisher": "ShaoYu",
+  "icon": "images/html.png",
+  "repository": "https://github.com/ShaoYuKao/vscode-front-end-extension-pack",
+  "engines": {
+    "vscode": "^1.54.0"
+  },
+  "license": "MIT",
+  "keywords": [
+    "Front-End"
+  ],
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "ritwickdey.LiveServer",
+    "esbenp.prettier-vscode",
+    "oderwat.indent-rainbow",
+    "formulahendry.auto-close-tag",
+    "formulahendry.auto-rename-tag",
+    "christian-kohler.path-intellisense",
+    "xabikos.JavaScriptSnippets",
+    "Tobermory.es6-string-html",
+    "JakeWilson.vscode-cdnjs",
+    "Gruntfuggly.todo-tree",
+    "JerryHong.autofilename",
+    "maptz.regionfolder",
+    "vincaslt.highlight-matching-tag",
+    "SirTori.indenticator"
+  ]
+}
